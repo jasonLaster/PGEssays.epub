@@ -1,0 +1,558 @@
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="bookid">
+      <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:title>Paul Graham's Essays</dc:title>
+        <dc:creator opf:file-as="Graham, Paul" opf:role="aut">Paul Graham</dc:creator>
+        <dc:language>en-US</dc:language>
+        <dc:identifier id="bookid">Paul Grahams Essays [2012.1.8-18:32:00]</dc:identifier>
+        <dc:rights>Public Domain</dc:rights>
+      </metadata>
+      <manifest>
+        <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+        <item id="titlepage" href="content/title.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c0_progbot" href="content/c0_progbot.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c100_identity" href="content/c100_identity.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c101_13sentences" href="content/c101_13sentences.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c102_hackernews" href="content/c102_hackernews.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c103_maybe" href="content/c103_maybe.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c104_convergence" href="content/c104_convergence.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c105_angelinvesting" href="content/c105_angelinvesting.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c106_relres" href="content/c106_relres.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c107_5founders" href="content/c107_5founders.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c108_foundervisa" href="content/c108_foundervisa.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c109_revolution" href="content/c109_revolution.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c10_taste" href="content/c10_taste.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c110_makersschedule" href="content/c110_makersschedule.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c111_ramenprofitable" href="content/c111_ramenprofitable.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c112_segway" href="content/c112_segway.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c113_kate" href="content/c113_kate.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c114_determination" href="content/c114_determination.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c115_nthings" href="content/c115_nthings.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c116_publishing" href="content/c116_publishing.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c117_discover" href="content/c117_discover.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c118_really" href="content/c118_really.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c119_apple" href="content/c119_apple.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c11_fix" href="content/c11_fix.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c120_organic" href="content/c120_organic.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c121_selfindulgence" href="content/c121_selfindulgence.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c122_top" href="content/c122_top.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c123_addiction" href="content/c123_addiction.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c124_future" href="content/c124_future.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c125_yahoo" href="content/c125_yahoo.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c126_hiresfund" href="content/c126_hiresfund.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c127_seesv" href="content/c127_seesv.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c128_superangels" href="content/c128_superangels.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c129_founders" href="content/c129_founders.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c12_power" href="content/c12_power.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c130_tablets" href="content/c130_tablets.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c131_control" href="content/c131_control.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c132_airbnb" href="content/c132_airbnb.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c133_patentpledge" href="content/c133_patentpledge.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c134_hubs" href="content/c134_hubs.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c13_icad" href="content/c13_icad.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c14_spam" href="content/c14_spam.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c15_desres" href="content/c15_desres.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c16_better" href="content/c16_better.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c17_nerds" href="content/c17_nerds.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c18_hundred" href="content/c18_hundred.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c19_iflisp" href="content/c19_iflisp.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c1_lwba" href="content/c1_lwba.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c20_hp" href="content/c20_hp.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c21_ffb" href="content/c21_ffb.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c22_say" href="content/c22_say.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c23_gba" href="content/c23_gba.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c24_wealth" href="content/c24_wealth.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c25_gap" href="content/c25_gap.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c26_gh" href="content/c26_gh.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c27_pypar" href="content/c27_pypar.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c28_essay" href="content/c28_essay.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c29_bubble" href="content/c29_bubble.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c2_avg" href="content/c2_avg.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c30_laundry" href="content/c30_laundry.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c31_polls" href="content/c31_polls.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c32_charisma" href="content/c32_charisma.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c33_usa" href="content/c33_usa.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c34_hs" href="content/c34_hs.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c35_start" href="content/c35_start.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c36_venturecapital" href="content/c36_venturecapital.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c37_college" href="content/c37_college.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c38_writing44" href="content/c38_writing44.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c39_mac" href="content/c39_mac.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c3_javacover" href="content/c3_javacover.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c40_bronze" href="content/c40_bronze.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c41_submarine" href="content/c41_submarine.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c42_hiring" href="content/c42_hiring.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c43_opensource" href="content/c43_opensource.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c44_ladder" href="content/c44_ladder.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c45_inequality" href="content/c45_inequality.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c46_sfp" href="content/c46_sfp.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c47_ideas" href="content/c47_ideas.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c48_vcsqueeze" href="content/c48_vcsqueeze.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c49_startupfunding" href="content/c49_startupfunding.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c4_popular" href="content/c4_popular.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c50_web20" href="content/c50_web20.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c51_procrastination" href="content/c51_procrastination.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c52_love" href="content/c52_love.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c53_whyyc" href="content/c53_whyyc.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c54_6631327" href="content/c54_6631327.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c55_softwarepatents" href="content/c55_softwarepatents.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c56_randomness" href="content/c56_randomness.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c57_startuplessons" href="content/c57_startuplessons.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c58_siliconvalley" href="content/c58_siliconvalley.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c59_america" href="content/c59_america.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c5_langdes" href="content/c5_langdes.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c60_marginal" href="content/c60_marginal.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c61_island" href="content/c61_island.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c62_copy" href="content/c62_copy.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c63_investors" href="content/c63_investors.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c64_mit" href="content/c64_mit.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c65_startupmistakes" href="content/c65_startupmistakes.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c66_goodart" href="content/c66_goodart.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c67_foundersatwork" href="content/c67_foundersatwork.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c68_wisdom" href="content/c68_wisdom.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c69_notnot" href="content/c69_notnot.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c6_rootsoflisp" href="content/c6_rootsoflisp.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c70_microsoft" href="content/c70_microsoft.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c71_judgement" href="content/c71_judgement.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c72_guidetoinvestors" href="content/c72_guidetoinvestors.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c73_unions" href="content/c73_unions.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c74_equity" href="content/c74_equity.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c75_stuff" href="content/c75_stuff.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c76_head" href="content/c76_head.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c77_die" href="content/c77_die.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c78_colleges" href="content/c78_colleges.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c79_philosophy" href="content/c79_philosophy.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c7_road" href="content/c7_road.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c80_webstartups" href="content/c80_webstartups.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c81_startuphubs" href="content/c81_startuphubs.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c82_newthings" href="content/c82_newthings.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c83_trolls" href="content/c83_trolls.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c84_ycombinator" href="content/c84_ycombinator.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c85_boss" href="content/c85_boss.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c86_disagree" href="content/c86_disagree.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c87_heroes" href="content/c87_heroes.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c88_googles" href="content/c88_googles.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c89_good" href="content/c89_good.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c8_diff" href="content/c8_diff.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c90_lies" href="content/c90_lies.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c91_distraction" href="content/c91_distraction.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c92_cities" href="content/c92_cities.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c93_prcmc" href="content/c93_prcmc.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c94_fundraising" href="content/c94_fundraising.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c95_badeconomy" href="content/c95_badeconomy.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c96_artistsship" href="content/c96_artistsship.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c97_highres" href="content/c97_highres.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c98_divergence" href="content/c98_divergence.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c99_credentials" href="content/c99_credentials.html" media-type="application/xhtml+xml"/>
+        
+        <item id="c9_noop" href="content/c9_noop.html" media-type="application/xhtml+xml"/>
+        
+       </manifest>
+      <spine toc="ncx">
+        
+        <itemref idref="c0_progbot"/>
+        
+        <itemref idref="c100_identity"/>
+        
+        <itemref idref="c101_13sentences"/>
+        
+        <itemref idref="c102_hackernews"/>
+        
+        <itemref idref="c103_maybe"/>
+        
+        <itemref idref="c104_convergence"/>
+        
+        <itemref idref="c105_angelinvesting"/>
+        
+        <itemref idref="c106_relres"/>
+        
+        <itemref idref="c107_5founders"/>
+        
+        <itemref idref="c108_foundervisa"/>
+        
+        <itemref idref="c109_revolution"/>
+        
+        <itemref idref="c10_taste"/>
+        
+        <itemref idref="c110_makersschedule"/>
+        
+        <itemref idref="c111_ramenprofitable"/>
+        
+        <itemref idref="c112_segway"/>
+        
+        <itemref idref="c113_kate"/>
+        
+        <itemref idref="c114_determination"/>
+        
+        <itemref idref="c115_nthings"/>
+        
+        <itemref idref="c116_publishing"/>
+        
+        <itemref idref="c117_discover"/>
+        
+        <itemref idref="c118_really"/>
+        
+        <itemref idref="c119_apple"/>
+        
+        <itemref idref="c11_fix"/>
+        
+        <itemref idref="c120_organic"/>
+        
+        <itemref idref="c121_selfindulgence"/>
+        
+        <itemref idref="c122_top"/>
+        
+        <itemref idref="c123_addiction"/>
+        
+        <itemref idref="c124_future"/>
+        
+        <itemref idref="c125_yahoo"/>
+        
+        <itemref idref="c126_hiresfund"/>
+        
+        <itemref idref="c127_seesv"/>
+        
+        <itemref idref="c128_superangels"/>
+        
+        <itemref idref="c129_founders"/>
+        
+        <itemref idref="c12_power"/>
+        
+        <itemref idref="c130_tablets"/>
+        
+        <itemref idref="c131_control"/>
+        
+        <itemref idref="c132_airbnb"/>
+        
+        <itemref idref="c133_patentpledge"/>
+        
+        <itemref idref="c134_hubs"/>
+        
+        <itemref idref="c13_icad"/>
+        
+        <itemref idref="c14_spam"/>
+        
+        <itemref idref="c15_desres"/>
+        
+        <itemref idref="c16_better"/>
+        
+        <itemref idref="c17_nerds"/>
+        
+        <itemref idref="c18_hundred"/>
+        
+        <itemref idref="c19_iflisp"/>
+        
+        <itemref idref="c1_lwba"/>
+        
+        <itemref idref="c20_hp"/>
+        
+        <itemref idref="c21_ffb"/>
+        
+        <itemref idref="c22_say"/>
+        
+        <itemref idref="c23_gba"/>
+        
+        <itemref idref="c24_wealth"/>
+        
+        <itemref idref="c25_gap"/>
+        
+        <itemref idref="c26_gh"/>
+        
+        <itemref idref="c27_pypar"/>
+        
+        <itemref idref="c28_essay"/>
+        
+        <itemref idref="c29_bubble"/>
+        
+        <itemref idref="c2_avg"/>
+        
+        <itemref idref="c30_laundry"/>
+        
+        <itemref idref="c31_polls"/>
+        
+        <itemref idref="c32_charisma"/>
+        
+        <itemref idref="c33_usa"/>
+        
+        <itemref idref="c34_hs"/>
+        
+        <itemref idref="c35_start"/>
+        
+        <itemref idref="c36_venturecapital"/>
+        
+        <itemref idref="c37_college"/>
+        
+        <itemref idref="c38_writing44"/>
+        
+        <itemref idref="c39_mac"/>
+        
+        <itemref idref="c3_javacover"/>
+        
+        <itemref idref="c40_bronze"/>
+        
+        <itemref idref="c41_submarine"/>
+        
+        <itemref idref="c42_hiring"/>
+        
+        <itemref idref="c43_opensource"/>
+        
+        <itemref idref="c44_ladder"/>
+        
+        <itemref idref="c45_inequality"/>
+        
+        <itemref idref="c46_sfp"/>
+        
+        <itemref idref="c47_ideas"/>
+        
+        <itemref idref="c48_vcsqueeze"/>
+        
+        <itemref idref="c49_startupfunding"/>
+        
+        <itemref idref="c4_popular"/>
+        
+        <itemref idref="c50_web20"/>
+        
+        <itemref idref="c51_procrastination"/>
+        
+        <itemref idref="c52_love"/>
+        
+        <itemref idref="c53_whyyc"/>
+        
+        <itemref idref="c54_6631327"/>
+        
+        <itemref idref="c55_softwarepatents"/>
+        
+        <itemref idref="c56_randomness"/>
+        
+        <itemref idref="c57_startuplessons"/>
+        
+        <itemref idref="c58_siliconvalley"/>
+        
+        <itemref idref="c59_america"/>
+        
+        <itemref idref="c5_langdes"/>
+        
+        <itemref idref="c60_marginal"/>
+        
+        <itemref idref="c61_island"/>
+        
+        <itemref idref="c62_copy"/>
+        
+        <itemref idref="c63_investors"/>
+        
+        <itemref idref="c64_mit"/>
+        
+        <itemref idref="c65_startupmistakes"/>
+        
+        <itemref idref="c66_goodart"/>
+        
+        <itemref idref="c67_foundersatwork"/>
+        
+        <itemref idref="c68_wisdom"/>
+        
+        <itemref idref="c69_notnot"/>
+        
+        <itemref idref="c6_rootsoflisp"/>
+        
+        <itemref idref="c70_microsoft"/>
+        
+        <itemref idref="c71_judgement"/>
+        
+        <itemref idref="c72_guidetoinvestors"/>
+        
+        <itemref idref="c73_unions"/>
+        
+        <itemref idref="c74_equity"/>
+        
+        <itemref idref="c75_stuff"/>
+        
+        <itemref idref="c76_head"/>
+        
+        <itemref idref="c77_die"/>
+        
+        <itemref idref="c78_colleges"/>
+        
+        <itemref idref="c79_philosophy"/>
+        
+        <itemref idref="c7_road"/>
+        
+        <itemref idref="c80_webstartups"/>
+        
+        <itemref idref="c81_startuphubs"/>
+        
+        <itemref idref="c82_newthings"/>
+        
+        <itemref idref="c83_trolls"/>
+        
+        <itemref idref="c84_ycombinator"/>
+        
+        <itemref idref="c85_boss"/>
+        
+        <itemref idref="c86_disagree"/>
+        
+        <itemref idref="c87_heroes"/>
+        
+        <itemref idref="c88_googles"/>
+        
+        <itemref idref="c89_good"/>
+        
+        <itemref idref="c8_diff"/>
+        
+        <itemref idref="c90_lies"/>
+        
+        <itemref idref="c91_distraction"/>
+        
+        <itemref idref="c92_cities"/>
+        
+        <itemref idref="c93_prcmc"/>
+        
+        <itemref idref="c94_fundraising"/>
+        
+        <itemref idref="c95_badeconomy"/>
+        
+        <itemref idref="c96_artistsship"/>
+        
+        <itemref idref="c97_highres"/>
+        
+        <itemref idref="c98_divergence"/>
+        
+        <itemref idref="c99_credentials"/>
+        
+        <itemref idref="c9_noop"/>
+        
+      </spine>
+  </package>
+  
